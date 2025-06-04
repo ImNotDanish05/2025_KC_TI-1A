@@ -13,9 +13,6 @@ Repository ini dibuat sebagai tempat dokumentasi dan pengumpulan tugas-tugas mat
 
 ---
 
-
----
-
 ## ⚠️ Disclaimer
 
 Repository ini **tidak untuk dikomersialkan**, dan semata-mata hanya digunakan sebagai referensi dokumentasi akademik. Semua file merupakan hasil kerja sendiri atau dikerjakan sesuai petunjuk dosen.
