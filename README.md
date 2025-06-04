@@ -13,14 +13,6 @@ Repository ini dibuat sebagai tempat dokumentasi dan pengumpulan tugas-tugas mat
 
 ---
 
-## 📂 Struktur Folder
-- `Tugas 1`: [Deskripsi tugas 1 di sini]
-- `Tugas 2`: [Deskripsi tugas 2 di sini]
-- ...
-- `Ujian Tengah Semester (UTS)`
-- `Ujian Akhir Semester (UAS)`
-
-📎 *Catatan: Penamaan folder disesuaikan dengan penugasan yang diberikan oleh dosen pengampu.*
 
 ---
 
